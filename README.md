@@ -1,1 +1,1 @@
-More about your project
+More about your project, More about cloning, More about conflict and as well More about forking. 
