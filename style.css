@@ -22,7 +22,16 @@ border: thick solid green;
 background-color: green;
 transform: translate(0, -40px);
 }
-{}
+#diva{
+    color: white;
+    font-family:fantasy;
+    background-color: red;
+    border-radius: 50%;
+    text-align: center;
+    width: 10%;
+    margin: auto;
+    height: 20vh;
+}
 
 
 
