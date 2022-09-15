@@ -22,7 +22,16 @@ border: thick solid green;
 background-color: green;
 transform: translate(0, -40px);
 }
-{}
+
+#mydiv{
+    background-color: cornflowerblue;
+    font-size: larger;
+    text-align: center;
+}
+span{
+    font-size: small;
+    color: red;
+}
 
 
 
