@@ -22,7 +22,13 @@ border: thick solid green;
 background-color: green;
 transform: translate(0, -40px);
 }
-{}
+
+body{
+    background-color: brown;
+    padding: 100px 20px;
+    color: blueviolet;
+    font-family: sans-serif;
+}
 
 
 
