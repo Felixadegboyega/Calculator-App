@@ -23,6 +23,11 @@ background-color: green;
 transform: translate(0, -40px);
 }
 
+body{
+    background-color: brown;
+    padding: 100px 20px;
+    color: blueviolet;
+    font-family: sans-serif;
 .container{
     width: 1000px;
     display: flex;
